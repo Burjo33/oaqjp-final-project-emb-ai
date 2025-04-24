@@ -4,7 +4,7 @@ import unittest
 class TestEmotionDetector(unittest.TestCase):
     def test_emotion_detector(self):
         #Sample Input text
-        input = 'I love this new technology'
+        input = 'I am so happy I am doing this'
         print(input)
         
         # Test with a sample input
